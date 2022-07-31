@@ -17,7 +17,6 @@ bntAvancar.addEventListener("click", function () {
   esconderCartaoSelecionado();
 
   cartaoAtual = cartaoAtual + 1;
-  console.log(cartaoAtual);
   mostrarCartao(cartaoAtual);
 });
 
